@@ -1,3 +1,10 @@
+NextJs MDX
+
+![Screen Shot 2022-06-09 at 2 46 23 PM](https://user-images.githubusercontent.com/92414210/172950783-1acada84-abcb-4f90-bfa1-f6c6461629ae.png)
+
+
+vercel built, https://nextjs-mdx-rose.vercel.app/
+
 https://www.section.io/engineering-education/static-nextjs-markdown-blog-typescript-mdx-tailwindcss/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
